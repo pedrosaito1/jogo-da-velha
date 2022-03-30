@@ -1,6 +1,6 @@
 ## #️⃣ JOGO DA VELHA
 
-Você pode conferir também <a href="#/" target="_blank">aqui</a>.
+Você pode conferir também <a href="https://pedrosaito1.github.io/jogo-da-velha/" target="_blank">aqui</a>.
 
 ## Objetivo do projeto:
 
